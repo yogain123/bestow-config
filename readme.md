@@ -8,7 +8,7 @@ ProjectName
       config
            uat.json
            dev.json
-	   other files
+      other files
       package.json
    ```
 
