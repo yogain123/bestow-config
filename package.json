@@ -11,6 +11,8 @@
     "json",
     "config"
   ],
+"repository": "https://github.com/yogain123/bestow-config",
+"publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Yogendra Saxena",
   "license": "ISC",
   "dependencies": {
